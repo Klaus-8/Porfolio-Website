@@ -2,7 +2,7 @@
 
 Application Link : https://klaus-portfolio.netlify.app/
 
-Portfolio website to showcase my skills and projects.
+Portfolio Website showcasing my skills and projects.
 
 Technologies used :
 
