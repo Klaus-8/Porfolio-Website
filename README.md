@@ -17,4 +17,4 @@ Technologies used :
 5. SCSS
 
 ------ Back End ------
-1. Sanity Studio
+1. Sanity CLI
